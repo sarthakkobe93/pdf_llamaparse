@@ -14,3 +14,5 @@ tools
 docx2txt
 fitz
 huggingface_hub
+llama-parse
+nest-asyncio
