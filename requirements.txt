@@ -13,6 +13,8 @@ frontend
 tools
 docx2txt
 fitz
-huggingface_hub
-llama-parse
+huggingface_hub==0.22.0
+llama-parse==0.3.9
 nest-asyncio
+llama_index_core==0.10.25
+langsmith==0.0.91
