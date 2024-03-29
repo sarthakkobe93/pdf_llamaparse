@@ -1,9 +1,9 @@
-langchain==0.0.284
-python-dotenv==1.0.0
-tiktoken==0.4.0
-faiss-cpu==1.7.4
+langchain
+python-dotenv
+tiktoken
+faiss-cpu
 protobuf
-requests==2.27.1
+requests
 pypdf
 InstructorEmbedding
 sentence-transformers
@@ -13,8 +13,8 @@ frontend
 tools
 docx2txt
 fitz
-huggingface_hub==0.22.0
+huggingface_hub
 llama-parse
 nest-asyncio
-llama_index_core==0.10.25
-langsmith==0.0.91
+llama_index_core
+langsmith
