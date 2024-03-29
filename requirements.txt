@@ -1,0 +1,16 @@
+langchain==0.0.284
+python-dotenv==1.0.0
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+protobuf
+requests==2.27.1
+pypdf
+InstructorEmbedding
+sentence-transformers
+streamlit==1.24.0
+streamlit_lottie
+frontend
+tools
+docx2txt
+fitz
+huggingface_hub
