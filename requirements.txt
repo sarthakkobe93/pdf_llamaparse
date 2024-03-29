@@ -7,7 +7,7 @@ requests
 pypdf
 InstructorEmbedding
 sentence-transformers
-streamlit==1.24.0
+streamlit
 streamlit_lottie
 frontend
 tools
